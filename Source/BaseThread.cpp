@@ -34,7 +34,7 @@ void BaseThread::stop()
 
 void BaseThread::run()
 {
-	printf("Hallo from default run\n");
+	printf("Hallo from default run please use your own implementation\n");
 	return;
 }
 
