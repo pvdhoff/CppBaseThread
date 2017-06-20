@@ -3,6 +3,7 @@
  *
  *  Created on: 18.08.2014
  *      Author: pvh
+ *      basic thead class
  */
 
 #ifndef BASETHREAD_H_
